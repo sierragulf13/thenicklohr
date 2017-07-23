@@ -1,8 +1,9 @@
-body{
-	background-color: black;
+body {
+    background-color: black;
+    color: green;
+    font-family: Monospace;
 }
-h1{
-	font-family: Monospace;
-	font-size: 150px;
-	color: green;
+
+p{
+    color: green !important;
 }
